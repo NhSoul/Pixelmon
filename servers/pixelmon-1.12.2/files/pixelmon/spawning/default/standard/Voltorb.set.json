@@ -1,0 +1,21 @@
+{
+  "id": "Voltorb",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Voltorb"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 18,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": -3319, "maxX": -3300, "minZ": 588, "maxZ": 626,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

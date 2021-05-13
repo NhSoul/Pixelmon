@@ -1,0 +1,66 @@
+{
+  "id": "Haunter",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Haunter"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": -3103, "maxX": -3034, "minZ": 293, "maxZ": 344,
+        "times": [ "NIGHT" ],
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 30.0
+    },
+
+
+    {
+      "spec": {
+        "name": "Haunter"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 0.0
+    },
+    {
+      "spec": {
+        "name": "Haunter"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.0
+    }
+  ]
+}

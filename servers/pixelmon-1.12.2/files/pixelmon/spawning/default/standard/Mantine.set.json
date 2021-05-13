@@ -1,0 +1,20 @@
+{
+  "id": "Mantine",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mantine"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": 870, "maxX": 1144, "minZ": -532, "maxZ": -227
+      },
+      "rarity": 10.0
+    }
+  ]
+}

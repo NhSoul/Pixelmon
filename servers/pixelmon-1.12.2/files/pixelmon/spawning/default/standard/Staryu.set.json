@@ -1,0 +1,30 @@
+{
+  "id": "Staryu",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Staryu"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+          "minX": 1320, "maxX": 1695, "minZ": -521, "maxZ": -218
+      },
+      "rarity": 10.0
+    }
+  ]
+}

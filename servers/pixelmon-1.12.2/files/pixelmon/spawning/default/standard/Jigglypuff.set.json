@@ -1,0 +1,41 @@
+{
+  "id": "Jigglypuff",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Jigglypuff"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": -2211, "maxX": -1961, "minZ": 581, "maxZ": 690,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 10.0
+    },
+
+    {
+      "spec": {
+        "name": "Jigglypuff"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": -2584, "maxX": -2314, "minZ": 672, "maxZ": 744,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 10.0
+    }
+
+
+
+  ]
+}

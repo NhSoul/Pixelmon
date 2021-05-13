@@ -1,0 +1,73 @@
+{
+  "id": "Chansey",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chansey"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 23,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lucky_punch",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "minX": -3290, "maxX": -3198, "minZ": -354, "maxZ": -258,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 1.0
+    },
+
+    {
+      "spec": {
+        "name": "Chansey"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 23,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lucky_punch",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "minX": -2931, "maxX": -2899, "minZ": -427, "maxZ": -389,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 1.0
+    },
+
+    {
+      "spec": {
+        "name": "Chansey"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 23,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lucky_punch",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "minX": -2847, "maxX": -2610, "minZ": -565, "maxZ": -533,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

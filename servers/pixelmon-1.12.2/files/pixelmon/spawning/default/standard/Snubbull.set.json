@@ -1,0 +1,21 @@
+{
+  "id": "Snubbull",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Snubbull"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": 489, "maxX": 703, "minZ": 178, "maxZ": 292,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

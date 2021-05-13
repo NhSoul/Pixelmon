@@ -1,0 +1,39 @@
+{
+  "id": "Stantler",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Stantler"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 12,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": 371, "maxX": 406, "minZ": -46, "maxZ": -27,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 5.0
+    },
+
+    {
+      "spec": {
+        "name": "Stantler"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 12,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": 313, "maxX": 400, "minZ": 29, "maxZ": 135,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 5.0
+    }
+
+  ]
+}

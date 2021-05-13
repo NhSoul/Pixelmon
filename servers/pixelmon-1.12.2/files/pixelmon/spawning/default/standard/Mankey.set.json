@@ -1,0 +1,38 @@
+{
+  "id": "Mankey",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mankey"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+          "minX": -59, "maxX": -4, "minZ": 154, "maxZ": 177,
+          "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 30.0
+    },
+
+    {
+      "spec": {
+        "name": "Mankey"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+          "minX": -3316, "maxX": -2902, "minZ": 683, "maxZ": 781,
+          "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

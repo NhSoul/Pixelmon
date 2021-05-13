@@ -1,0 +1,94 @@
+{
+  "id": "Mareep",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mareep"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 4,
+      "maxLevel": 6,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": 80, "maxX": 203, "minZ": -548, "maxZ": -232,
+        "times": [ "DAWN", "DUSK", "DAY" ],
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Mareep"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 4,
+      "maxLevel": 6,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": 80, "maxX": 203, "minZ": -548, "maxZ": -232,
+        "times": [ "NIGHT" ],
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 10.0
+    },
+
+
+    {
+      "spec": {
+        "name": "Mareep"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": -59, "maxX": -4, "minZ": 154, "maxZ": 177,
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 30.0
+    },
+
+    {
+      "spec": {
+        "name": "Mareep"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": -224, "maxX": -79, "minZ": 303, "maxZ": 523,
+        "times": [ "DAWN", "DUSK", "DAY" ],
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Mareep"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "minX": -224, "maxX": -79, "minZ": 303, "maxZ": 523,
+        "times": [ "NIGHT" ],
+        "baseBlocks": ["minecraft:tallgrass"]
+      },
+      "rarity": 5.0
+    }
+
+
+  ]
+}

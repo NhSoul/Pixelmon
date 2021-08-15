@@ -1,6 +1,0 @@
-"stringLocationTypes": [ "Water" ],	      Test for Surf spawns
-"stringLocationTypes": [ "Land" ],        Test for Grass spawns
-"stringLocationTypes": [ "Underground" ], Test for Caves
-"times": [ "DAWN", "DUSK" ]	              Use for Twilight Spawns
-"times": [ "DAY" ]	                      Use for Day Spawns
-"times": [ "NIGHT" ]	                    Use for Night Spawns

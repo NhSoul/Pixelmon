@@ -1,9 +1,9 @@
 {
-  "$schema": "file:///D:/Workspaces/Nebula/Data/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/neohu/Documents/WorkSpace/Nebula/Data/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "pixelmon (Minecraft 1.12.2)",
-    "description": "pixelmon Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+    "description": "pixelmon Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -14,7 +14,7 @@
     "autoconnect": false
   },
   "forge": {
-    "version": "14.23.5.2854"
+    "version": "14.23.5.2855"
   },
   "untrackedFiles": []
 }
